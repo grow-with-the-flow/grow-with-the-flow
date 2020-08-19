@@ -1,0 +1,5 @@
+#!/bin/sh
+
+yarn build
+
+firebase deploy --project grow-with-the-flow
